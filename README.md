@@ -49,4 +49,37 @@ Ingin ikut berkontribusi dalam pengembangan Reown Docs?
 Silakan fork repository ini, lakukan perubahan, dan buat pull request.  
 Setiap kontribusi sangat berarti untuk komunitas open source! 🌍
 
+🌍 komunitas open source! 🌍
 
+---
+
+## 📂 Struktur Proyek
+Berikut struktur utama dalam Reown Docs:
+...
+---
+
+## 💬 Dukungan & Komunitas
+Bergabunglah dengan komunitas Reown Docs ...
+
+---
+
+### 📂 Struktur Proyek
+Berikut struktur utama dalam Reown Docs:
+```
+Reown-Docs/
+├── README.md
+├── LICENSE
+├── docs/
+│   ├── index.md
+│   └── guide/
+│       └── getting-started.md
+└── assets/
+    └── logo.png
+```
+
+---
+
+### 💬 Dukungan & Komunitas
+Bergabunglah dengan komunitas **Reown Docs** untuk berkolaborasi, berbagi ide, dan mengembangkan sistem dokumentasi open source yang lebih baik!  
+📧 Email: reown.docs.team@gmail.com  
+🌐 Website: [https://reown-docs.github.io](https://reown-docs.github.io)
