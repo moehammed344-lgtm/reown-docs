@@ -35,5 +35,12 @@ Founder & Lead Developer of Reown Docs
 Lisensi: [MIT License](https://opensource.org/licenses/MIT)  
 © 2025 Reown Docs. All rights reserved.
 
+---
+
+### 🔧 Informasi Tambahan
+
+Reown Docs adalah proyek dokumentasi open source yang dikembangkan untuk membantu para pengembang berkolaborasi lebih mudah dan efisien.  
+Founder: **Muhammad Syu'banul Umam Azmat Khan al-Bantani (Azam)**
+
 
 
