@@ -42,5 +42,11 @@ Lisensi: [MIT License](https://opensource.org/licenses/MIT)
 Reown Docs adalah proyek dokumentasi open source yang dikembangkan untuk membantu para pengembang berkolaborasi lebih mudah dan efisien.  
 Founder: **Muhammad Syu'banul Umam Azmat Khan al-Bantani (Azam)**
 
+---
+
+### 💡 Cara Berkontribusi
+Ingin ikut berkontribusi dalam pengembangan Reown Docs?
+Silakan fork repository ini, lakukan perubahan, dan buat pull request.  
+Setiap kontribusi sangat berarti untuk komunitas open source! 🌍
 
 
