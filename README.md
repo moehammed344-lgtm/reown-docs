@@ -1,71 +1,19 @@
-# 🧾 Reown Docs  
+# 📘 Reown Docs
 
-Dokumentasi resmi untuk proyek **Reown Docs**.  
-
----
-
-## 🎯 Tujuan Proyek  
-Reown Docs bertujuan menyediakan sistem dokumentasi open source yang **ringan**, **cepat**, dan **mudah dikolaborasikan** oleh developer di seluruh dunia.  
+**Reown Docs** adalah proyek dokumentasi open-source yang dikembangkan oleh  
+**Muhammad Syu'banul Umam Azmat Khan al-Bantani (Azam)**  
+Founder & Lead Developer Reown Docs.
 
 ---
 
-## 🧩 Fitur Utama  
-- Ringan dan cepat digunakan 🚀  
-- Mudah dikustomisasi untuk berbagai proyek  
-- Terintegrasi dengan GitHub dan sistem open source global  
-- Dirancang untuk kolaborasi tim pengembang  
+## 🚀 Tujuan Proyek
+Menyediakan platform dokumentasi yang **cepat, ringan, dan ramah pengembang**,  
+agar kolaborator global dapat menulis, membaca, dan mengelola dokumentasi dengan efisien.
 
 ---
 
-## ⚙️ Cara Menjalankan Proyek  
-1. Clone repositori ini:  
-```bash
-git clone https://github.com/moehammed344/reown-docs.git
-  
-
-cd reown-docs
-```
----
-## 👤 Pembuat  
-Dikembangkan oleh **Muhammad Syu'banul Umam Azmat Khan al-Bantani (Azam)**  
-Founder & Lead Developer of Reown Docs  
-
----
-
-Lisensi: [MIT License](https://opensource.org/licenses/MIT)  
-© 2025 Reown Docs. All rights reserved.
-
----
-
-### 🔧 Informasi Tambahan
-
-Reown Docs adalah proyek dokumentasi open source yang dikembangkan untuk membantu para pengembang berkolaborasi lebih mudah dan efisien.  
-Founder: **Muhammad Syu'banul Umam Azmat Khan al-Bantani (Azam)**
-
----
-
-### 💡 Cara Berkontribusi
-Ingin ikut berkontribusi dalam pengembangan Reown Docs?
-Silakan fork repository ini, lakukan perubahan, dan buat pull request.  
-Setiap kontribusi sangat berarti untuk komunitas open source! 🌍
-
-🌍 komunitas open source! 🌍
-
----
-
-## 📂 Struktur Proyek
+## 🧩 Struktur Proyek
 Berikut struktur utama dalam Reown Docs:
-...
----
-
-## 💬 Dukungan & Komunitas
-Bergabunglah dengan komunitas Reown Docs ...
-
----
-
-### 📂 Struktur Proyek
-Berikut struktur utama dalam Reown Docs:
-```
 Reown-Docs/
 ├── README.md
 ├── LICENSE
@@ -79,7 +27,48 @@ Reown-Docs/
 
 ---
 
-### 💬 Dukungan & Komunitas
-Bergabunglah dengan komunitas **Reown Docs** untuk berkolaborasi, berbagi ide, dan mengembangkan sistem dokumentasi open source yang lebih baik!  
-📧 Email: reown.docs.team@gmail.com  
-🌐 Website: [https://reown-docs.github.io](https://reown-docs.github.io)
+## 🤝 Kontribusi
+Kami terbuka untuk kolaborasi!  
+Lihat panduan di [CONTRIBUTING.md](./CONTRIBUTING.md) 
+atau kirimkan ide kamu lewat **Pull Request**.
+
+---
+
+## 🧠 Teknologi & Pendekatan
+- Markdown-based Documentation  
+- Open Source Collaboration  
+- Community-driven Development
+
+---
+
+## 📜 Kode Etik Kontributor
+Kami berkomitmen menciptakan lingkungan yang ramah, terbuka, dan profesional di komunitas **Reown Docs**.
+
+### 🌟 Prinsip Utama
+- Saling menghormati dan mendengarkan pendapat anggota lain.  
+- Tidak melakukan diskriminasi, pelecehan, atau ujaran kebencian.  
+- Bersikap jujur, transparan, dan bertanggung jawab.  
+- Fokus pada peningkatan kualitas proyek bersama.  
+
+### Pelanggaran
+Pelanggaran terhadap kode etik ini dapat mengakibatkan peringatan, penangguhan kontribusi, atau pemblokiran akses, tergantung tingkat pelanggaran.
+
+---
+
+## 💬 Dukungan & Komunitas
+Bergabunglah dengan komunitas **Reown Docs** untuk berkolaborasi, berbagi ide,  
+dan mengembangkan sistem dokumentasi open-source yang lebih baik!  
+
+📧 **Email:** reown.docs.team@gmail.com  
+🌐 **Website:** [https://reown-docs.github.io](https://reown-docs.github.io)
+
+---
+
+## 📬 Kontak Utama
+📧 **reowndocs.security@gmail.com**  
+🌐 **https://github.com/reown-docs**
+
+---
+
+> “Dokumentasi bukan hanya tentang tulisan, tapi tentang membangun pemahaman bersama.”  
+> — *Azam, Founder Reown Docs*
