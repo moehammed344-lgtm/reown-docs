@@ -1,0 +1,20 @@
+# 👑 Daftar Pemilik Kode (Code Owners)
+# File ini menentukan siapa yang bertanggung jawab atas setiap bagian proyek.
+
+# Format:
+# path/to/file_or_folder   @username_github
+
+# 🌐 Bagian utama dokumentasi
+/docs/                     @azam-reown
+
+# 💻 Konfigurasi & build sistem
+/config/                   @azam-reown
+
+# 📦 File utama proyek
+README.md                  @azam-reown
+LICENSE                    @azam-reown
+SECURITY.md                @azam-reown
+CODE_OF_CONDUCT.md         @azam-reown
+
+# 🔧 Semua file lainnya
+*                          @azam-reown
