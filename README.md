@@ -1,22 +1,14 @@
 # Reown Docs
+Dokumentasi resmi untuk proyek **Reown**.
 
-Welcome to **Reown Docs** — an open-source documentation built for the Reown Project.  
-Our goal is to make developer collaboration simpler, faster, and more transparent.  
+## 🚀 Tujuan
+- Menyusun dokumentasi semua fitur Reown.
+- Membangun panduan untuk pengguna dan developer.
+- Menjadi pusat referensi resmi bagi komunitas.
 
-## 🧭 Vision
-Building a modern, open, and accessible documentation ecosystem for all Reown contributors.
-
-## 🛠️ Built With
-- Markdown
-- GitHub Pages
-- Vercel
-
-## 👥 Team
-Founder & Lead Developer: Muhammad Syu'banul Umam Azmat Khan al-Bantani (Azam)
+## 👥 Tim Founder
+- Muhammad Syu'banul Umam Azmat Khan al-Bantani (Azam)
+- Dll...
 
 ## 🌐 Website
 [https://reown-docs.vercel.app](https://reown-docs.vercel.app)
-
-## 🚀 Goals
-- Membuat dokumentasi Reown lebih mudah diakses.
-- Kolaborasi terbuka untuk semua kontributor.
