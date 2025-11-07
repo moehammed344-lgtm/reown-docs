@@ -16,3 +16,7 @@ Founder & Lead Developer: Muhammad Syu'banul Umam Azmat Khan al-Bantani (Azam)
 
 ## 🌐 Website
 [https://reown-docs.vercel.app](https://reown-docs.vercel.app)
+
+## 🚀 Goals
+- Membuat dokumentasi Reown lebih mudah diakses.
+- Kolaborasi terbuka untuk semua kontributor.
