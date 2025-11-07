@@ -1,7 +1,14 @@
-# Struktur Proyek Reown Docs
+# Struktur Dokumentasi Reown Docs
 
-- `/src` : Kode utama dokumentasi.
-- `/public` : Aset publik seperti gambar dan ikon.
-- `README.md` : Dokumentasi utama proyek.
-- `LICENSE` : Informasi lisensi proyek.
-- `.gitignore` : File pengecualian agar folder tertentu tidak diupload ke GitHub.
+Struktur ini menentukan urutan dan hierarki halaman di dalam dokumentasi.
+
+## Daftar Halaman
+- [Beranda](docs/intro.md)
+- [Tentang](about.md)
+- [Panduan Kontribusi](CONTRIBUTING.md)
+- [Keamanan](SECURITY.md)
+- [Kode Etik](CODE_OF_CONDUCT.md)
+- [Lisensi](LICENSE)
+
+---
+File ini digunakan oleh sistem Reown Docs untuk menghasilkan navigasi otomatis.
