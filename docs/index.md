@@ -43,3 +43,4 @@ Setiap kontribusi — sekecil apa pun — membantu membangun masa depan dokument
 
 > _“Open collaboration begins with clear documentation.”_  
 > — **Muhammad Syu'banul Umam Azmat Khan al-Bantani (Azam)**
+- [Tentang Reown Docs](about.md)
