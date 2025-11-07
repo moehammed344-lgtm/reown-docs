@@ -1,14 +1,19 @@
-# Struktur Dokumentasi Reown Docs
+# Tentang Reown Docs
 
-Struktur ini menentukan urutan dan hierarki halaman di dalam dokumentasi.
+**Reown Docs** adalah sistem dokumentasi terbuka (open source) yang dirancang untuk memudahkan pengembang dan kontributor dalam membuat, membaca, serta mengelola dokumentasi proyek dengan cepat dan efisien.
 
-## Daftar Halaman
-- [Beranda](docs/intro.md)
-- [Tentang](about.md)
-- [Panduan Kontribusi](CONTRIBUTING.md)
-- [Keamanan](SECURITY.md)
-- [Kode Etik](CODE_OF_CONDUCT.md)
-- [Lisensi](LICENSE)
+## Tujuan Utama
+- Menyediakan platform dokumentasi yang ringan dan mudah digunakan.  
+- Mendukung kolaborasi terbuka antar pengembang global.  
+- Meningkatkan efisiensi dalam pengelolaan dokumentasi proyek open source.
+
+## Tim Pengembang
+Reown Docs dikembangkan oleh komunitas open source dengan semangat kolaborasi.  
+Setiap orang bisa berkontribusi melalui pull request dan diskusi terbuka di repositori GitHub.
+
+## Lisensi
+Proyek ini dilisensikan di bawah **Lisensi MIT**, yang memungkinkan siapa pun untuk menggunakan, menyalin, dan memodifikasi kode ini secara bebas dengan tetap mencantumkan kredit.
 
 ---
-File ini digunakan oleh sistem Reown Docs untuk menghasilkan navigasi otomatis.
+
+**Reown Docs — Dokumentasi Terbuka untuk Semua.**
