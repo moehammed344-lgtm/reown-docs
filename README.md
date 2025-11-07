@@ -70,5 +70,6 @@ dan mengembangkan sistem dokumentasi open-source yang lebih baik!
 
 ---
 
-> “Dokumentasi bukan hanya tentang tulisan, tapi tentang membangun pemahaman bersama.”  
+> “Dokumentasi bukan hanya tentang menulis, tapi tentang membangun pemahaman bersama.”  
+> — *Reown Docs Team*
 > — *Azam, Founder Reown Docs*
